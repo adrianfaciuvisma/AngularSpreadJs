@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularSpreadJs"
+    }
+  },
+  "defaultProject": "AngularSpreadJs",
+  "cli": {
+    "analytics": false
+  }
 }
